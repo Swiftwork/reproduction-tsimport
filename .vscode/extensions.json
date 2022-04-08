@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dozerg.tsimportsorter",
+    "arcanis.vscode-zipfs",
+    "dbaeumer.vscode-eslint"
+  ]
+}

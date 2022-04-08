@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "search.exclude": {
+    "**/.pnp.*": true,
+    "**/.yarn": true
+  },
+  "tsImportSorter.configuration.wrappingStyle": "prettier",
+  "eslint.nodePath": ".yarn/sdks",
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.js"
+}
